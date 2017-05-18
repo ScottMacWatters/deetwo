@@ -1,0 +1,27 @@
+{
+  "name": "deetwo",
+  "version": "0.1.0",
+  "description": "Destiny Chat Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottMacWatters/deetwo.git"
+  },
+  "keywords": [
+    "Destiny"
+  ],
+  "author": "Scott MacWatters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottMacWatters/deetwo/issues"
+  },
+  "homepage": "https://github.com/ScottMacWatters/deetwo#readme",
+  "dependencies": {
+    "destiny-api-client": "^0.1.1",
+    "express": "^4.15.3"
+  }
+}

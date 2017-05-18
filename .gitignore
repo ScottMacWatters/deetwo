@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+
+config.sh
+config_undo.sh
